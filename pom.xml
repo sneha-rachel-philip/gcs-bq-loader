@@ -46,7 +46,7 @@
   </build>
 
 
-  <name>gcp_sample</name>
+  <name>gcs-bq-sample</name>
   <url>http://maven.apache.org</url>
 
   <properties>
