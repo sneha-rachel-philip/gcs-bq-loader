@@ -5,8 +5,8 @@ FROM openjdk:11-jre-slim
 WORKDIR /app
 
 # Copy the JAR file and other necessary files
-COPY target/gcs-bq-sample-1.0.0-SNAPSHOT.jar /app
+COPY target/gcs-bq-loader-1.0.0-SNAPSHOT.jar /app
 # Add any additional files if required
 
 # Command to run your application
-CMD ["java", "-jar", "gcs-bq-sample-1.0.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "gcs-bq-loader-1.0.0-SNAPSHOT.jar"]
