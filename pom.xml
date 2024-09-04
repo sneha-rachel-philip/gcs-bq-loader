@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>gcs-bq-sample</artifactId>
+  <artifactId>gcs-bq-loader</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <build>
@@ -46,7 +46,7 @@
   </build>
 
 
-  <name>gcs-bq-sample</name>
+  <name>gcs-bq-loader</name>
   <url>http://maven.apache.org</url>
 
   <properties>

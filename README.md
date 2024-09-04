@@ -1,4 +1,4 @@
-# gcs-bq-sample
+# gcs-bq-loader
 
 * Sample code to read avro data from cloud storage and load to bigquery, using docker and cloud run
 * Avro data included in resources folder - data taken from https://github.com/miguno/avro-cli-examples/blob/master/twitter.json
